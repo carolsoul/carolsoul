@@ -1,4 +1,4 @@
-<img width=100% bottom=50px src=https://github.com/carolsoul/carolsoul/assets/162413072/7238d7b4-5725-4f14-b06e-e7424bb4d9ff/>
+<img width=100% bottom=50px src=https://github.com/carolsoul/carolsoul/assets/162413072/813ce19c-e287-4e6b-9abb-c3bfadc07b6c/>
 
 <h2 align="left">About me</h2>
 
