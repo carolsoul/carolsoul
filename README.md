@@ -1,5 +1,3 @@
-![Header](./your-header-image-name.png)
-
 # Hi there, my name is Carol
 
 <h2 align="left">About me</h2>
