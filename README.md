@@ -19,7 +19,7 @@
 
 ###
 
-<h2 align="center">Main Skills</h2>
+<h1 align="center">Main Skills</h1>
 
 <br>
 <br>
@@ -36,10 +36,8 @@
 
 <br>
 <br>
-<br>
-<br> 
 
-<h2 align="center">Studying right now</h2>
+<h1 align="center">Studying right now</h1>
 
 <br> 
 <br>
