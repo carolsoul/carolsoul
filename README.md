@@ -1,4 +1,4 @@
-# Hi there, my name is Carol
+<img width=100% bottom=50px src=https://github.com/carolsoul/carolsoul/assets/162413072/7238d7b4-5725-4f14-b06e-e7424bb4d9ff/>
 
 <h2 align="left">About me</h2>
 
