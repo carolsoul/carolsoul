@@ -14,4 +14,42 @@
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=carolsoul&radius=16&theme=high-contrast&area=true&order=5&line=6F00ED&area_color=6F00ED" height="300" alt="activity-graph graph"  />
 </div>
 
+<br>
+<br>
+
+###
+
+<h2 align="center">Main Skills</h2>
+
+<br>
+<br>
+
+<div align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="80" alt="html5 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="80" alt="css3 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="80" alt="python logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="80" alt="figma logo"  />
+</div>
+
+<br>
+<br>
+<br>
+<br> 
+
+<h2 align="center">Studying right now</h2>
+
+<br> 
+<br>
+
+<div align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="80" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="80" alt="react logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="80" alt="python logo"  />
+</div>
+
 ###
