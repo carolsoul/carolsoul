@@ -1,4 +1,9 @@
 <img width=100% bottom=50px src=https://github.com/carolsoul/carolsoul/assets/162413072/813ce19c-e287-4e6b-9abb-c3bfadc07b6c/>
+<br>
+<br>
+<br>
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=28&duration=2000&pause=500&color=6F00ED&background=FFFFFF00&center=true&random=false&width=435&lines=Welcome;My+name+is+Carol;I'm+19+years+old;I'm+a+Front-end+Developer;I+live+in+Brasil)](https://git.io/typing-svg)
 
 <h2 align="left">About me</h2>
 
